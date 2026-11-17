@@ -1,2 +1,2 @@
-# Arduino-Radar
-My first time assembling and coding a radar using an Arduino from a beginner electronics kit.
+# Arduino-Radar-Project
+Arduino-based radar using an ultrasonic sensor and servo, with a Processing display showing real time distance readings.
